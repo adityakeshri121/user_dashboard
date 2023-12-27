@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "age": 28,
+            "score": 85
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "age": 32,
+            "score": 92
+        },
+        {
+            "id": 3,
+            "name": "Emlie Sans",
+            "age": 39,
+            "score": 95
+        },
+        {
+            "id": 4,
+            "name": "Sudimir",
+            "age": 37,
+            "score": 82
+        },
+        {
+            "id": 5,
+            "name": "Alfred",
+            "age": 54,
+            "score": 95
+        },
+        {
+            "id": 6,
+            "name": "Dan",
+            "age": 76,
+            "score": 97
+        },
+        {
+            "id": 7,
+            "name": "Nick",
+            "age": 21,
+            "score": 89
+        },
+        {
+            "id": 8,
+            "name": "Dua",
+            "age": 27,
+            "score": 94
+        },
+        {
+            "id": 9,
+            "name": "Brooke",
+            "age": 67,
+            "score": 89
+        },
+        {
+            "id": 10,
+            "name": "Katie",
+            "age": 45,
+            "score": 99
+        }
+    ]
+}
